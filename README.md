@@ -22,3 +22,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hyatus&" alt="hyatus" /></p>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hyatus&repo=github-readme-stats)](https://github.com/hyatus/github-readme-stats)
