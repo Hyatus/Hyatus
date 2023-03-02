@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cristian</h1>
 <h3 align="center">A passionate frontend developer from Guatemala </h3>
 
-
 <p align="center">
   <img alt="coding" width="500" src="https://i.pinimg.com/originals/3e/96/7b/3e967bc7ed256087fea278163352c39c.gif">
 </p>
